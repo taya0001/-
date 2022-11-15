@@ -1,0 +1,6 @@
+SELECT COUNT(*) FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE';
+SELECT table_name FROM information_schema.tables WHERE table_schema = 'p518138-lyc';
+SELECT * FROM users;
+SELECT * FROM grades;
+SELECT * FROM users.grades WHERE users.user_id = grades.user_id
+SELECT * FROM users WHERE fam = 'Ложанова'
