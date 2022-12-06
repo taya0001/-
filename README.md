@@ -34,11 +34,11 @@ https://lucid.app/documents/view/1212f4ef-b79d-4cd8-a809-97270cca3565
   Нажми
 </a>
 
-'''mermaid
+```mermaid
 flowchart LR
 
 A[Hard] -->|Text| B(Round)
 B --> C{Сдал ЕГЭ?}
 C -->|Да| D[ВУЗ]
 C -->|Нет| E[Армия]
-'''
+```
