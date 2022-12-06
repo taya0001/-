@@ -38,6 +38,6 @@ https://lucid.app/documents/view/1212f4ef-b79d-4cd8-a809-97270cca3565
 flowchart LR
 
 A[Hard] -->|Text| B(Round)
-B --> C{Decision}
-C -->|One| D[Result 1]
-C -->|Two| E[Result 2]'''
+B --> C{Сдал ЕГЭ?}
+C -->|Да| D[]
+C -->|Нет| E[Result 2]'''
