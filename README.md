@@ -30,6 +30,6 @@ https://lucid.app/documents/view/1212f4ef-b79d-4cd8-a809-97270cca3565
     border-color: #cca61e !important;
 }
 </style>
-<a href="http://daruse.ru/generator-knopok-online" class="button_1670306189902" target="_blank">
+<a href="https://github.com/taya0001" class="button_1670306189902" target="_blank">
   Нажми
 </a>
