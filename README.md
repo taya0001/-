@@ -45,3 +45,4 @@ C -->E[Нет]
 E -->|Мальчик| A[Армия]
 E -->|Девочка| В[Работа]
 ```
+![mermaid-diagram-2022-12-06-140641](https://user-images.githubusercontent.com/114468712/205844499-a768e0f3-4da1-49a0-9781-e8648c212e02.png)
