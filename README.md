@@ -10,3 +10,26 @@ $$m_{H_{2}O}=V\cdot p_{H_{2}O}$$
 
 
 https://lucid.app/documents/view/1212f4ef-b79d-4cd8-a809-97270cca3565
+
+<style>
+.button_1670306189902 {
+    display: inline-block !important;
+    text-decoration: none !important;
+    background-color: #e7881c !important;
+    color: #ffff22 !important;
+    border: 3px solid #846c00 !important;
+    border-radius: 5px !important;
+    font-size: 27px !important;
+    padding: 15px 50px !important; 
+    transition: all 0.6s ease !important;
+}
+.button_1670306189902:hover{
+    text-decoration: none !important; 
+    background-color: #ffff48 !important;
+    color: #ea9a0e !important;
+    border-color: #cca61e !important;
+}
+</style>
+<a href="http://daruse.ru/generator-knopok-online" class="button_1670306189902" target="_blank">
+  Нажми
+</a>
