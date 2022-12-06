@@ -39,5 +39,5 @@ flowchart LR
 
 A[Hard] -->|Text| B(Round)
 B --> C{Сдал ЕГЭ?}
-C -->|Да| D[]
-C -->|Нет| E[Result 2]'''
+C -->|Да| D[ВУЗ]
+C -->|Нет| E[Армия]'''
