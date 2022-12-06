@@ -34,9 +34,10 @@ https://lucid.app/documents/view/1212f4ef-b79d-4cd8-a809-97270cca3565
   Нажми
 </a>
 
-""flowchart LR
+'''mermaid
+flowchart LR
 
 A[Hard] -->|Text| B(Round)
 B --> C{Decision}
 C -->|One| D[Result 1]
-C -->|Two| E[Result 2]""
+C -->|Two| E[Result 2]'''
