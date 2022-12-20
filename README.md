@@ -48,3 +48,5 @@ E -->|Девочка| В[Работа]
 ```
 ![mermaid-diagram-2022-12-06-140641](https://user-images.githubusercontent.com/114468712/205844499-a768e0f3-4da1-49a0-9781-e8648c212e02.png)
 ![mermaid-diagram-2022-12-20-132203](https://user-images.githubusercontent.com/114468712/208597993-af48f10c-f8aa-40fc-9fdc-d2e70c5c951e.png)
+
+МОЙ САЙТ http://repetitors.ru.tilda.ws/
